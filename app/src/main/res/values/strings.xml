@@ -2,6 +2,6 @@
     <string name="app_name">Expense Manager</string>
     <string name="name">Name</string>
     <string name="nick_name">Nick Name</string>
-    <string name="codechef">Codechef Rating</string>
+    <string name="codechef">Codechef Username</string>
     <string name="myaavatar">MyAavatar</string>
 </resources>

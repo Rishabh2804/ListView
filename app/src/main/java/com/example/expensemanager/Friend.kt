@@ -4,5 +4,5 @@ data class Friend(
     val name: String,
     val nick_name: String,
     val roll_no: Long,
-    val comdchemf: Int
+    val comdchemf: String
 )
